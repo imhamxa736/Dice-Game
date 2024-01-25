@@ -1,0 +1,31 @@
+.container{
+    text-align: center;
+    text-justify: auto;
+    color: #9b1e1e;
+    margin: auto;
+    width: 90%;
+}
+  
+.dice{
+    text-align: center;
+    color: yellowgreen;
+    margin-left: auto;
+    display: inline-block;
+}
+
+body{
+    background-color: black;
+}
+
+
+  img {
+    width: 70%;
+  }
+  
+  footer {
+    margin-top: 5%;
+    color: #9b1e1e;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+  }
